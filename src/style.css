@@ -28,6 +28,10 @@ h1 {
   margin: 0 auto;
   max-width: 50%;
 }
+.coffee {
+    font-size: 18px;
+    
+}
 
 .french-croissant {
   display: block;
